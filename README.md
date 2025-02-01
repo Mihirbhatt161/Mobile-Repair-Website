@@ -1,36 +1,36 @@
-#Mobile Repair Website - TickTech
+# Mobile Repair Website - TickTech
 
-Overview
+## Overview
 
 This is a full-stack web application developed for TickTech, a mobile repair company. The website allows users to request mobile repair services and contact the company directly. The backend is powered by Django, with SQLite as the database. The project is structured to be easily deployed and run in any IDE, such as VS Code.
 
-Features
+## Features
 
-User Authentication: Login and admin panel access using predefined credentials.
+### User Authentication: Login and admin panel access using predefined credentials.
 
-Contact Form: Users can submit their queries and requests.
+### Contact Form: Users can submit their queries and requests.
 
-Admin Dashboard: Manage user requests via Django's built-in admin panel.
+### Admin Dashboard: Manage user requests via Django's built-in admin panel.
 
-Responsive Design: Ensures a seamless experience across different devices.
+### Responsive Design: Ensures a seamless experience across different devices.
 
-Database Management: SQLite integration for handling user and service requests.
+### Database Management: SQLite integration for handling user and service requests.
 
-Technologies Used
+## Technologies Used
 
-Backend: Django (Python Framework)
+### Backend: Django (Python Framework)
 
-Database: SQLite
+### Database: SQLite
 
-Frontend: HTML, CSS, JavaScript
+### Frontend: HTML, CSS, JavaScript
 
-IDE Compatibility: Works seamlessly on VS Code and other Python-supported IDEs.
+### IDE Compatibility: Works seamlessly on VS Code and other Python-supported IDEs.
 
-Installation & Setup
+## Installation & Setup
 
-Prerequisites
+### Prerequisites
 
-Ensure you have the following installed on your system:
+#### Ensure you have the following installed on your system:
 
 Python (3.x recommended)
 
@@ -40,51 +40,31 @@ Git (optional, for cloning the repository)
 
 Steps to Run
 
-Clone the Repository:
+### Clone the Repository:
 
 git clone https://github.com/Bholuyadav/Mobile-Repair-Website.git
 
-Navigate to the Project Directory:
+### Navigate to the Project Directory:
 
 cd Mobile-Repair-Website
 
-Install Dependencies:
+### Install Dependencies:
 
 pip install -r requirements.txt
 
-Run Database Migrations:
+### Run Database Migrations:
 
 python manage.py migrate
 
-Start the Server:
+### Start the Server:
 
 python manage.py runserver
 
-Access the Website:
-Open your browser and go to: http://127.0.0.1:8000/
-
-Admin Panel Access
-
-To manage database entries such as contact queries, go to:
-
-Admin Panel URL: http://127.0.0.1:8000/admin/
-
-Username: ticktech
-
-Password: ticktech
-
-Contributors
+## Contributors
 
 This project is developed and maintained by:
 
-Mihir Bhatt
+### Mihir Bhatt
 
-Dheeraj Yadav (GitHub Profile)
+### Dheeraj Yadav (GitHub Profile)
 
-License
-
-This project is open-source and available for modifications and improvements.
-
-Contact
-
-For any issues or feature requests, feel free to create an issue on the GitHub repository.
