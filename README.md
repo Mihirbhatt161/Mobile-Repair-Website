@@ -42,29 +42,29 @@ Steps to Run
 
 ### Clone the Repository:
 
-git clone https://github.com/Bholuyadav/Mobile-Repair-Website.git
+git clone [Click Here]https://github.com/Mihirbhatt161/Mobile-Repair-Website
 
 ### Navigate to the Project Directory:
 
-cd Mobile-Repair-Website
+`cd Mobile-Repair-Website`
 
 ### Install Dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### Run Database Migrations:
 
-python manage.py migrate
+`python manage.py migrate`
 
 ### Start the Server:
 
-python manage.py runserver
+`python manage.py runserver`
 
-## Contributors
+### Contributors
 
 This project is developed and maintained by:
 
-### Mihir Bhatt
+#### Mihir Bhatt
 
-### Dheeraj Yadav (GitHub Profile)
+#### Dheeraj Yadav (GitHub Profile)
 
