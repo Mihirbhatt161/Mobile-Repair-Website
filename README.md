@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a full-stack web application developed for TickTech, a mobile repair company. The website allows users to request mobile repair services and contact the company directly. The backend is powered by Django, with SQLite as the database. The project is structured to be easily deployed and run in any IDE, such as VS Code.
+This is a full-stack web application developed for TickTech, IT Company, loacated in Pune during my Summer Internship. The website allows users to request mobile repair services and contact the company directly. The backend is powered by Django, with SQLite as the database. The project is structured to be easily deployed and run in any IDE, such as VS Code.
 
 ## Features
 
